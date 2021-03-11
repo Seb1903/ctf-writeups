@@ -11,3 +11,5 @@ There you can upload zip files and the page shows you the content of the texts t
 ``` ln -s ../../../../../../../etc/shadow shadow ```  
 
 You then need to zip the 'shadow' file just created. Upload it on the website and it will show you the flag. 
+
+![image](https://user-images.githubusercontent.com/35641452/110850857-92949c80-82b0-11eb-9263-e6de8d491321.png)
