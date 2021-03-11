@@ -28,9 +28,9 @@ For this challenge we did a time attack. We checked the response time for every 
 
 3. Mice 3 
 
-This one was quite the same as the previous one but you needed to test special characters (and had to play with the python encoding).  
+This one was quite the same as the previous one but you needed to test special characters (and thus had to play a bit with the Python encoding).  
 
-sock.send(b'\r\xec\xaf')  would give you the solution. 
+```sock.send(b'\r\xec\xaf')```  would give you the solution. 
 
 
 
